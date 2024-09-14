@@ -1,0 +1,3 @@
+C:\Users\mahmu\source\repos\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.AssemblyReference.cache
+C:\Users\mahmu\source\repos\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahmu\source\repos\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
